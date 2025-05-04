@@ -254,6 +254,7 @@ export default function Home() {
               <div className="flex flex-wrap gap-4">
                 <motion.a
                   href="#menu"
+                  onClick={(e) => handleScroll(e, "menu")}
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
                   className="px-8 py-3 bg-stone-800 text-white rounded-md hover:bg-stone-700 transition duration-300 flex items-center gap-2"
