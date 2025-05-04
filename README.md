@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YoruAkio/ProjectAssets/refs/heads/main/akio/pbeans/3d_beans_compressed.png" alt="PBeans Coffee" width="180" />
+    <img src="https://raw.githubusercontent.com/YoruAkio/ProjectAssets/refs/heads/main/akio/pbeans/3d_beans_compressed.png" alt="PBeans Coffee" width="180" style="border-radius: 20px;" />
   <h1>PBeans Coffee Shop</h1>
   <p>
     <strong>Japanese-inspired coffee experience in Indonesia</strong>
